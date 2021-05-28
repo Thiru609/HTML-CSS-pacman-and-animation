@@ -1,0 +1,52 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 560px;
+    height: 560px;
+    border: solid black;
+}
+  
+.grid div {
+    width: 20px;
+    height: 20px;
+}
+
+.DAs {
+    background-color: black;   
+    border: 5px solid white;
+    box-sizing: border-box;
+}
+
+.grass {
+    background-color: green;
+}
+
+.Cousin-pellet {
+    background-color: goldenrod;
+    border-radius: 10px;
+}
+
+.buban {
+    background-color: red;
+}
+
+.bhaiya {
+    background-color: red;
+}
+
+.ppman {
+    background-color: red;
+}
+
+.wallcrawler {
+    background-color: red;     
+}
+
+.Student {
+    background-color: Blue;
+    border-radius: 10px;
+}
+
+.magic-ghost {
+    background-color: yellow;
+}
